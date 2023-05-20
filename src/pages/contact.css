@@ -1,0 +1,37 @@
+.container {
+    max-width: 400px;
+    margin-top: 30p;
+    border-radius: 20px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: blueviolet;
+}
+
+.container h1 {
+text-align: center;
+}
+
+.container form label {
+display: block;
+margin-bottom: 10px;
+}
+
+.container form input[type="text"],
+.container form textarea {
+width: 100%;
+padding: 5px;
+margin-bottom: 10px;
+}
+
+.container form button {
+background-color: #4CAF50;
+color: white;
+padding: 10px 20px;
+border: none;
+cursor: pointer;
+}
+
+.container form button:hover {
+opacity: 0.8;
+}
+  

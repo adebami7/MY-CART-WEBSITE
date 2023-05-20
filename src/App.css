@@ -6,6 +6,8 @@
 }
 
 body {
+  width: fit-content;
+  overflow-x: hidden;
   padding: 0;
   margin: 0;
   background-color: rgb(245, 245, 245);

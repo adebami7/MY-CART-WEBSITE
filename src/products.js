@@ -6,6 +6,7 @@ import product5 from "./assets/products/5-new.png";
 import product6 from "./assets/products/6.webp";
 import product7 from "./assets/products/7.webp";
 import product8 from "./assets/products/8.webp";
+import product9 from "./assets/products/tecno_camon_19.png";
 
 export const PRODUCTS = [
   {
@@ -55,5 +56,12 @@ export const PRODUCTS = [
     productName: "DON'T TRIP LS HAT",
     price: 58.99,
     productImage: product8,
+  },
+
+  {
+    id: 9,
+    productName: "TECNO CAMMON 19",
+    price: 1188.99,
+    productImage: product9,
   },
 ];
